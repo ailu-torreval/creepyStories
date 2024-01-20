@@ -22,6 +22,7 @@ function App() {
       {data.map((story, index) => (
   <div key={index}>
     {parse(story.prompt)}
+    {parse(story.answer)}
   </div>
 ))} 
      <h1>Vite + React</h1>

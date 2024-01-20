@@ -2,11 +2,241 @@
     {
      "id": 1,
      "prompt": "\"<p> You are driving down the road in your car on a wild, stormy night, when you pass by a bus stop and you see three people waiting for the bus: <br><ul>\n <li>\n        an old lady who looks as if she is about to die,\n        <\/li>\n        <li>\n        an old friend who once saved your life,\n        <\/li>\n        <li>\n        the perfect partner you have been dreaming\n        <\/li>\n        about.\n        <br>\n        Knowing that there can only be one passenger in\n        your car, whom would you choose? <\/p>\"",
-     "answer": "\"<p><strong>Hint: <\/strong>You can make everyone happy.\nYour car can only contain one passenger, so\nwhom should it be?<br>\n<strong>Answer: <\/strong>The old lady of course! After helping the\nold lady into the car, you can give your keys to\nyour friend, and wait with your perfect partner for\nthe bus.<\/p>\""
+     "answer": "<p><strong>Hint: <\/strong>You can make everyone happy.\nYour car can only contain one passenger, so\nwhom should it be?<br>\n<strong>Answer: <\/strong>The old lady of course! After helping the\nold lady into the car, you can give your keys to\nyour friend, and wait with your perfect partner for\nthe bus.<\/p>"
     },
     {
      "id": 2,
      "prompt": "<p>Acting on an anonymous phone call, the police\nraid a house to arrest a suspected murderer. They\ndon´t know what he looks like but they know his\nname is John and that he is inside the house. The\npolice burst in on a carpenter, a lorry driver, a\nmechanic and a fireman all playing poker.<br>\nWithout hesitation or communication of any kind,\nthey immediately arrest the fireman. How do they\nknow they´ve got their man?<\/p>",
      "answer": "<p><strong>Hint: <\/strong>The police only know two things, that the\ncriminal´s name is John and that he is in a\nparticular house.<br>\n<strong>Answer: <\/strong>The fireman is the only man in the\nroom. The rest of the poker players are women.<\/p>"
+    },
+    {
+     "id": 3,
+     "prompt": "<p>A man lives in the attic of an apartment building.\nEvery morning he takes the elevator down to the\nlobby and leaves the building. Upon his return,\nhowever, he can only travel halfway up in the lift\nand has to walk the rest of the way – unless it´s\nraining. He hates walking so why does he do it?\nWhat is the explanation for this?<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> He is very proud, so refuses to ever ask for help.<strong>Answer: <\/strong>The man is a dwarf. He can´t reach the upper elevator buttons, but he can ask people to push them for him. He can also push them with his umbrella.<\/p>"
+    },
+    {
+     "id": 4,
+     "prompt": "<p>How could a baby fall out of a twenty-story\nbuilding onto the ground and live?<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> It does not matter what the baby lands on, and it has nothing to do with luck.<strong>Answer: <\/strong>The baby fell out of a ground floor window.<\/p>"
+    },
+    {
+     "id": 5,
+     "prompt": "<p>Bad Boy Bubby was warned by his mother never\nto open the cellar door or he would see things\nthat he was not meant to see. One day while his\nmother was out he did open the cellar door. What\ndid he see?<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> His mother was an odd woman. <strong>Answer: <\/strong> When Bad Boy Bubby opened the cellar door he saw the living room and, through its windows, the garden. He had never seen these before because his mother had kept him all his life in the cellar.<\/p>"
+    },
+    {
+     "id": 6,
+     "prompt": "<p>A man and his son are in a car crash. The father<\/p>\nis killed and the child is taken to hospital gravely\ninjured. When he gets there, the surgeon says, ´I\ncan´t operate on this boy - because he is my\nson!!! How can this possibly be?",
+     "answer": "<p><strong>Hint: <\/strong>This has nothing to do with adoption or time travel.<strong>Answer: <\/strong> The surgeon cannot operate on her own son; she is his mother.<\/p>"
+    },
+    {
+     "id": 7,
+     "prompt": "<p>There are six eggs in the basket. Six people each\ntake one of the eggs. How can it be that one egg\nis left in the basket?<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> A alternate version of the problem is... Saradhi, Nick & Ted win a raffle contest. The prize is three hard boiled eggs in a basket. After discussing how to divide the prize, each take one egg. Nick & Ted get hungry and so eat their eggs. One of the original eggs is still left in original basket. <strong>Answer: <\/strong> The last person took the basket with the last egg still inside.<\/p>"
+    },
+    {
+     "id": 8,
+     "prompt": "<p>A man was lying in a pool of blood in a telephone box. The windows of the telephone box were broken. What happened?<\/p>",
+     "answer": "<strong>Answer: <\/strong> The man was a fisherman. He had caught a big fish. He went to phone his friend and while he was explaining how LOOOONG the fish was, he broke the glass walls and cut himself and bled to death.<\/p>"
+    },
+    {
+     "id": 9,
+     "prompt": "<p>John was working as every day but that day when\nhe made one step back, he died. Why?<\/p>",
+     "answer": "<strong>Answer: <\/strong> He was a window cleaner at a skyscraper. His shift was over, so he looked at the window, combed his hair and made one-step back to see better. This was his end.<\/p>"
+    },
+    {
+     "id": 10,
+     "prompt": "<p>One day we were travelling in desert and we found an old house. It was empty, but in the locked back room there was a hangman. His feet were 1.5 meter above the floor. There was nothing else in the room. How did he manage to kill himself?<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> There was a puddle of water under his feet.\n<strong>Answer: <\/strong> He had climbed a big block of ice and so\nhe didn´t need the chair :-D The ice melted\nbecause it was hot...<\/p>"
+    },
+    {
+     "id": 11,
+     "prompt": "<p>A man walks into a bar and asks the barman for a glass of water. The barman pulls out a gun and points it at the man. The man says ´Thank you ´ and walks out. Why?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>The man had hiccups. The barman\nrecognized this from his speech and drew the gun\nin order to give him a shock. It worked and cured\nthe hiccups - so the man no longer needed the\nwater.<\/p>"
+    },
+    {
+     "id": 12,
+     "prompt": "<p>Not far from Madrid, there is a large wooden\nbarn. The barn is completely empty except for a\ndead man hanging from the middle of the central\nrafter. The rope around his neck is ten feet long\nand his feet are three feet off the ground. The\nnearest wall is 20 feet away from the man. It is\nnot possible to climb up the walls or along the\nrafters. The man hanged himself. How did he do\nit?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> He climbed on a block of ice which has\nsince melted.<\/p>"
+    },
+    {
+     "id": 13,
+     "prompt": "<p>A man is lying dead in a field. Next to him there is an unopened package. There is no other creature in the field. How did he die?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>The man had jumped from a plane but his parachute had failed to open. It is the unopened package... This is sometimes given with the following rather elegant clue - as he approached the centre of the field he knew he was going to die.<\/p>"
+    },
+    {
+     "id": 14,
+     "prompt": "<p>Anthony and Cleopatra are lying dead on the\nfloor of a villa in Egypt. Nearby is a broken bowl.\nThere is no mark on either of their bodies and\nthey were not poisoned. How did they die?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> Anthony and Cleopatra were goldfish whose bowl was knocked over by a clumsy dog.<\/p>"
+    },
+    {
+     "id": 15,
+     "prompt": "<p>Five pieces of coal, a carrot and a scarf are lying\non the lawn. Nobody put them on the lawn but\nthere is a perfectly logical reason why they\nshould be there. What is it?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> They were used by children who made\na snowman. The snow has now melted.<\/p>"
+    },
+    {
+     "id": 16,
+     "prompt": "<p>A woman had two sons who were born on the same hour of the same day of the same year. But they were not twins. How could this be so?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> They were two of a set of triplets (or quadruplets etc.)<\/p>"
+    },
+    {
+     "id": 17,
+     "prompt": "<p>A man pushed his car. He stopped when he reached a hotel at which point he knew he was bankrupt. Why?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> He was playing Monopoly<\/p>"
+    },
+    {
+     "id": 18,
+     "prompt": "<p>One day a man received a parcel in the post.\nCarefully packed inside was a human arm. He\nexamined it, repacked it and then sent it on to\nanother man. The second man also carefully\nexamined the arm before taking it to the woods\nand burying it. Why did they do this?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>The three men had been stranded on a\ndesert island. Desperate for food, they had agreed to\namputate their left arms in order to eat them. They\nswore an oath that each would have his left arm cut\noff. One of them was a doctor and he cut the arms off\nhis two companions. They were then rescued. But his\noath was still binding so he later had to have his arm\namputated and sent to his colleagues... This is often\ntold with a further twist whereby a doctor pays a tramp\na large sum in order to amputate the tramp ´s arm\nwhich the doctor then sends to another man who\ninspects it etc....<\/p>"
+    },
+    {
+     "id": 19,
+     "prompt": "<p>A man died and went to Heaven. There were\nthousands of other people there. They were all\nnaked and all looked as they did at the age of 21.\nHe looked around to see if there was anyone he\nrecognised. He saw a couple and he knew\nimmediately that they were Adam and Eve. How\ndid he know?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> He recognized Adam and Eve as the only people without navels. Because they were not born of women, they had never had umbilical cords and therefore they never had navels.<\/p>"
+    },
+    {
+     "id": 20,
+     "prompt": "<p>A man rode into town on Friday. He stayed for\nthree nights and then left on Friday. How come?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>  The man ´s horse was called Friday.<\/p>"
+    },
+    {
+     "id": 21,
+     "prompt": "<p>Why is it better to have round manhole covers\nthan square ones?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> A square manhole cover can be turned and dropped down the diagonal of the manhole. A round manhole cannot be dropped down the manhole. So for safety and practicality, all manhole covers should be round.<\/p>"
+    },
+    {
+     "id": 22,
+     "prompt": "<p>A man went to a party and drank some of the punch. He then left early. Everyone else at the party who drank the punch subsequently died of poisoning. Why did the man not die?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> The poison in the punch came from the ice cubes. When the man drank the punch the ice was fully frozen. Gradually it melted, poisoning the punch.<\/p>"
+    },
+    {
+     "id": 23,
+     "prompt": "<p>Two men went into a restaurant. They both ordered the same dish from the menu. After they tasted it, one of the men went outside the restaurant and shot himself. Why?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>The dish that the two men ordered was albatross. They had been stranded many years earlier on a desert island. When the man tasted albatross he realized that he had never tasted it before. This meant that the meat he had been given on the island was not albatross as he had been told. He correctly deduced that he had eaten the flesh of his son who had died when they first reached the island.<\/p>"
+    },
+    {
+     "id": 24,
+     "prompt": "<p>A man was walking downstairs in a building when he suddenly realized that his wife had just died. How?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> The man had visited his wife in hospital.\nShe was on a life-support machine. As he was\nwalking down the stairs all the lights went out.\nThere had been a power cut and the emergency\nback-up systems had failed. He knew that she\nhad died.<\/p>"
+    },
+    {
+     "id": 25,
+     "prompt": "<p>The music stopped. She died. Explain.<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> Brother is not the answer. <strong>Answer: <\/strong> The blind beggar was the sister of her brother who died.<\/p>"
+    },
+    {
+     "id": 26,
+     "prompt": "<p>A blind beggar had a brother who died. What relation was the blind beggar to the brother who died?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> He and a number of other passengers were making a balloon trip in a desperate attempt to flee a country. The balloon had to lose weight to stop it from crashing. He drew the short match and had to jump.<\/p>"
+    },
+    {
+     "id": 27,
+     "prompt": "<p>A man is found dead in a field. He is clutching a broken match. What happened?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>  She was a circus tight-rope walker who\nwalked blindfolded over a high wire. The band\nplayed as she crossed and when the music\nstopped it was the signal that she had reached\nthe end of the walk and could safely alight. One\nday the conductor was taken ill and the stand-in\nconductor ended the piece of music too early. She\nstepped off to her death.<\/p>"
+    },
+    {
+     "id": 28,
+     "prompt": "<p>Deep in the forest was found the body of a man who was wearing only swimming trunks, snorkel and facemask. The nearest lake was 8 miles away and the sea was 100 miles away. How had he died?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> During a forest fire, a fire-fighting plane had scooped up some water from the lake to drop on the fire. The plane had accidentally picked up the unfortunate swimmer.<\/p>"
+    },
+    {
+     "id": 29,
+     "prompt": "<p>One day Kerry celebrated her birthday. Two days later her older twin brother, Terry, celebrated his birthday. How come?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> At the time she went into labor, the mother of the twins was travelling by boat. The older twin, Terry, was born first early on March 1st. The boat then crossed the International Date line (or any time zone line) and Kerry, the younger twin, was born on February the 28th. In a leap year the younger twin celebrates her birthday two days before her older brother.<\/p>"
+    },
+    {
+     "id": 30,
+     "prompt": "<p>A man called to a waiter in a restaurant, \"There's a fly in my tea!\" The waiter replied, \"I will bring you a fresh cup.\" After a few moments, the man called out, ”This is the same cup of tea!” How did he know?<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> There isn't just tea in there... <strong>Answer: <\/strong>The man had already put sugar into the tea.<\/p>"
+    },
+    {
+     "id": 31,
+     "prompt": "<p>A man managed to visit over thirty foreign countries without his passport. He was welcomed in each country and left each one of his own accord. He did this in one day.<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> Countries aren't always that far apart.\n<strong>Answer: <\/strong>  He was a postman delivering the mail\nto embassies.<\/p>"
+    },
+    {
+     "id": 32,
+     "prompt": "<p>An Arab sheikh tells his two sons that are to race their camels to a distant city to see who will inherit his fortune. The one whose camel arrives last will win. The brothers, after wandering aimlessly for days, ask a wise man for advice. After hearing the advice they jump on the camels and race as fast as they can to their destination.<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> It doesn't mean that the brother has to\narrive last...\n<strong>Answer: <\/strong> The wiseman tells them to swap\ncamels.<\/p>"
+    },
+    {
+     "id": 33,
+     "prompt": "<p>You are on an island (in the center) that is one\nmile long and 100 yards wide. The vegetation is\nvery dry from a long drought. Suddenly it\ncatches fire at one end of the island, and a\nstrong wind is blowing it towards you, burning\nthe whole width of the island. There's no beach,\nonly sheer cliffs, and the sea is infested with\nsharks. What can you do?<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> What will the fire burn next? <strong>Answer: <\/strong> Set fire to the other half of the island then walk behind the fire onto the burnt ground.<\/p>"
+    },
+    {
+     "id": 34,
+     "prompt": "<p>A man marries twenty women in his village but isn't charged with polygamy.<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> He only marries them...\n<strong>Answer: <\/strong> He's a priest; he is marrying them to\nother people, not to himself.<\/p>"
+    },
+    {
+     "id": 35,
+     "prompt": "<p>A man is alone on an island with no food and no water, yet he does not fear for his life.<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> There are many types of island <strong>Answer: <\/strong> He is a policeman on a traffic island.<\/p>"
+    },
+    {
+     "id": 36,
+     "prompt": "<p>A man is driving his car. He turns on the radio, listens for five minutes, turns around, goes home, and shoots his wife.<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> What he hears on the radio makes him very angry. <strong>Answer: <\/strong> The DJ from the radio station phones a mobile phone and a lover answers and then his wife tells him in a lusty voice to hang up, because she wants him one more time whilst her husband is out.<\/p>"
+    },
+    {
+     "id": 37,
+     "prompt": "<p>A man walks into a bar and asks for water. The bartender pulls out a gun and points it at him. The man says, \"Thank you,\" and walks out.<\/p>",
+     "answer": "<p><strong>Hint: <\/strong> The bartender has no intention of shooting him. <strong>Answer: <\/strong> He has hiccups<\/p>"
+    },
+    {
+     "id": 38,
+     "prompt": "<p>The telephone rang in the middle of the night and the woman woke up. When she answered it the caller hung up. The caller felt better.<\/p>",
+     "answer": "<p><strong>Hint: <\/strong>They are in a hotel. <strong>Answer: <\/strong> The woman was snoring and so the caller phoned her to stop it.<\/p>"
+    },
+    {
+     "id": 39,
+     "prompt": "<p>Taxi stops, the taxi driver opens the door and a dead men falls on the road. What had happened?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>  The previous passenger was a spider lover and he forgot a box with his spider there. This dead man panicked when he saw it and so he was bitten by a poisonous spider.<\/p>"
+    },
+    {
+     "id": 40,
+     "prompt": "<p>A man came to visit at a convent while the superior mother was out of town. He left before she returned, and was careful to leave nothing behind. The nuns said nothing about his visit, so how did the superior mother figure out that a man had been there?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>  Because a toilet seat was up.<\/p>"
+    },
+    {
+     "id": 41,
+     "prompt": "<p>A woman proves in court that her husband was\nmurdered by her sister, but the judge decides\nthat the sister cannot be punished. Why?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> The sisters are Siamese twins.<\/p>"
+    },
+    {
+     "id": 42,
+     "prompt": "<p>Why was the man able to pass three cars going\n70 miles-per-hour, while he was going only 60\nmiles-per-hour?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>  The cars he passed were going in the\nopposite direction.<\/p>"
+    },
+    {
+     "id": 43,
+     "prompt": "<p>A man woke up in the middle of the night and turned off the light. Ten people died as result. Why?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>  He was the lighthouse keeper, and\nturned off the light, causing a ship to wreck on\nthe rocks.<\/p>"
+    },
+    {
+     "id": 44,
+     "prompt": "<p>A woman bought new shoes, and shortly afterwards died from a knife-wound. Why?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> She was the assistant to a knife-thrower\nin a circus, and the new shoes made her stand\ntwo inches higher, throwing off the aim of the\nperformer.<\/p>"
+    },
+    {
+     "id": 45,
+     "prompt": "<p>Agatha spent several days in the hospital. She wasn’t injured, and she wasn’t sick, but she did have to be carried out when she left though. Why was she in the hospital?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> She was a newborn baby.<\/p>"
+    },
+    {
+     "id": 46,
+     "prompt": "<p>A man and his wife raced through the streets. They stopped, and the husband got out of the car. When he came back, his wife was dead, and there was a stranger in the car.<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> The wife was about to have a baby. They drove to the hospital. The husband left to get a wheelchair, but the baby was born in the meantime, and the wife didn't survive the birth.<\/p>"
+    },
+    {
+     "id": 47,
+     "prompt": "<p>A murderer is condemned to death. He has to choose between three rooms. The first is full of raging fires, the second is full of assassins with loaded guns, and the third is full of lions that haven't eaten in 3 years. Which room is safest for him?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong> The third. Lions that haven't eaten in three years are dead.<\/p>"
+    },
+    {
+     "id": 48,
+     "prompt": "<p>A woman shoots her husband. Then she holds him under water for over 5 minutes. Finally, she hangs him. But 5 minutes later they both go out together and enjoy a wonderful dinner together. How can this be?<\/p>",
+     "answer": "<p><strong>Answer: <\/strong>  The woman was a photographer. She\nshot a picture of her husband, developed it, and\nhung it up to dry.<\/p>"
     }
    ]
