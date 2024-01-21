@@ -6,37 +6,31 @@ import data from './assets/data.json';
 import parse from 'html-react-parser';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
+  const [selectedStory, setSelectedStory] = useState(undefined);
+
+  function getRandomStory() {
+    const randomNumber = Math.floor(Math.random() * data.length);
+    setSelectedStory(data[randomNumber]);
+    console.log(selectedStory)
+  }
 
   return (
     <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
+    <button onClick={getRandomStory}>Random Story</button>
 
-      {data.map((story, index) => (
-  <div key={index}>
-    {parse(story.prompt)}
-    {parse(story.answer)}
+
+  {selectedStory !== undefined &&  
+  <div>
+    <h2>{selectedStory.id}</h2>
+    <h3>Statement</h3>
+    {parse(selectedStory.prompt)}
+    <h3>Solution</h3>
+    {parse(selectedStory.answer)}
   </div>
-))} 
-     <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+  }
+
+
     </>
   )
 }
